@@ -14,7 +14,3 @@ end)
 
 local Tab = Window:NewTab("Main")
 local Section = Tab:NewSection("Main")
-
-Section:NewButton(Noclip ExiHub", "Noclip ExiHub.Info", function()
-    print("Clicked")
-end)
